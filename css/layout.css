@@ -1,0 +1,13 @@
+/* layout */
+
+.centered {
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+@media (min-width: 52em) {
+  .centered {
+    /* max width becouse the small screens take the appropriate width  */
+    max-width: 52em;
+  }
+}

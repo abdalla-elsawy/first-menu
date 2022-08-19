@@ -1,0 +1,29 @@
+/*--------------------------------------------------------------
+Header styles minus menu 
+--------------------------------------------------------------*/
+
+.masthead {
+  background: #0f5959;
+}
+
+.site-title {
+  padding: 0.5em 0;
+  font-size: 2em;
+  font-weight: 300;
+  text-align: center;
+  color: black;
+}
+
+.site-title {
+  color: #f5f6fa;
+  text-decoration: none;
+  text-decoration: none;
+}
+
+.site-title a:hover {
+  text-decoration: underline;
+}
+
+body {
+  background-color: #0a3a40;
+}
